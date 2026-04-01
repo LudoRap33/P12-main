@@ -13,7 +13,7 @@ const logotext = "LUDO";
 const meta = {
 
     title: "Ludovic DUFAURE",
-    description: "Je m'appelle Ludovic 'Intégrateur Web', actuellement basé sur Bordeaux en France",
+    description: "Je m'appelle Luudovic 'Intégrateur Web', actuellement basé sur Bordeaux en France",
 };
 
 const introdata = {
